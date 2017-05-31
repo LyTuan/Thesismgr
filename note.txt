@@ -1,0 +1,6 @@
+c- Thay đổi bảng Student: thêm status, 
+
+- Thêm 1 bảng waitingTopic: studentId, newName, newTeacher.
+- Chốt đăng ký thì gửi mail
+- Làm thêm 1 bảng notification
+- Làm 1 bảng time
